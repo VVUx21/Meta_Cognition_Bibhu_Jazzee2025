@@ -29,4 +29,3 @@ All related project files and assets can be found in the Google Drive folder:
 
 1. Watch the video demo for a quick overview.
 2. Download or view files from the Drive link.
-3. Use the code/assets as per your need (subject to license if mentioned).
