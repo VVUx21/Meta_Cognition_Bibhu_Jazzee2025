@@ -7,7 +7,6 @@
 - [ Deployment](#deployment)
 
 Drive Link for the proposed solution:
-Youtube link for the demo of the proposed solution:
 
 # Description
 
